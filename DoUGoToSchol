@@ -1,14 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Do U go to school?</title>
-    <link rel="icon" href="https://images.app.goo.gl/gso1cSbcTFKKGAdZ9" />
-    <link
-      rel="canonical"
-      href="https://Quandinh030106.github.io/DoYouGoToSchool/"
-    />
+    <title>DoYouGoToSchool</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
-  <body></body>
+  <body>
+    <h1>BẠN CÓ ĐI HỌC KHÔNG??</h1>
+    <button>
+      <a href="https://aepxtchcalysta.github.io/ClassExerciseForPython/"
+        >Tôi Không Đi Học</a
+      >
+    </button>
+    <button><a href="link_di_hoc.html">Tôi Có Đi Học</a></button>
+  </body>
 </html>
+
